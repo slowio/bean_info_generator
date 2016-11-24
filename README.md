@@ -1,0 +1,1 @@
+# bean_info_generator
