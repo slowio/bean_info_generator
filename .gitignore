@@ -193,6 +193,3 @@ hs_err_pid*
 # Project-level settings
 /.tgitconfig
 
-/.gitignore
-
-/.idea/
